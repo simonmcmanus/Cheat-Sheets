@@ -1,6 +1,6 @@
-h1. Sublime Text 2 - Useful Shortcuts (Mac OS X)
+# Sublime Text 2 - Useful Shortcuts (Mac OS X)#
 
-h2. General
+## General ##
 
 | *⌘T* | go to file |
 | *⌘⌃P* | go to project |
@@ -11,8 +11,8 @@ h2. General
 | *⌃ `* | python console |
 | *⌘⇧N* | new window (useful for new project) |
 
-h2. Editing
-
+## Editing ##
+∏
 | *⌘L* | select line (repeat select next lines) |
 | *⌘D* | select word (repeat select others occurrences in context for multiple editing) |
 | *⌃⇧M* | select content into brackets |
@@ -34,12 +34,12 @@ h2. Editing
 | *⌘U* | soft undo (movement undo) |
 | *⌘⇧U* | soft redo (movement redo) |
 
-h2. XML/HTML
+## XML/HTML ##
 
 | *⌘⇧A* | select content into tag |
 | *⌘⌥ .* | close tag |
 
-h2. Find/Replace
+## Find/Replace ##
 
 | *⌘F* | find |
 | *⌘⌥F* | replace |
@@ -47,7 +47,7 @@ h2. Find/Replace
 | *⌘⌃G* | select all occurrences of current word for multiple editing |
 | *⌘⇧F* | find in files |
 
-h2. Splits/Tabs
+## Splits/Tabs ##
 
 | *⌘⌥1* | single column |
 | *⌘⌥2* | two columns |
@@ -56,14 +56,14 @@ h2. Splits/Tabs
 | *⌃⇧[1,2,3,4]* | move file to group |
 | *⌘[1,2,3...]* | select tab |
 
-h2. Bookmarks
+## Bookmarks ##
 
 | *⌘F2* | toggle bookmark |
 | *F2* | next bookmark |
 | *⇧F2* | previous bookmark |
 | *⌘⇧F2* | clear bookmarks |
 
-h2. Marks
+## Marks ##
 
 | *⌘K space* | set mark // ⌘K; for me |
 | *⌘KW* | delete from cursor to mark |
