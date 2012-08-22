@@ -1,0 +1,1 @@
+redis-cli KEYS "boom:*" | xargs redis-cli DEL
