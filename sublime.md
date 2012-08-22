@@ -69,3 +69,11 @@
 | *⌘KW* | delete from cursor to mark |
 | *⌘KA* | select from cursor to mark |
 | *⌘KG* | clear mark |
+
+
+
+
+Packages : 
+
+JSHint
+docBlockr
